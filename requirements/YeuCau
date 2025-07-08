@@ -1,0 +1,11 @@
+Backend
+1. Feature APIs tasks
+2. Feature Search engine
+3. Feature login, permission
+
+Frontend:
+Coding Requirement: 
+- Implement TodoList app base on your framework (vuejs/reactjs,....(flexible)), Complete all the functions 
+- Naming convention, es6 or later. 
+- The code is broken into reasonable components
+
